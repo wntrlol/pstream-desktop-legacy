@@ -9,7 +9,7 @@ This is the legacy version of the P-Stream desktop app. It is designed to use le
 ## 📥 Download
 
 Download the latest version here:  
-👉 https://github.com/wntrlol/pstream-desktop-legacy/releases/tag/legacy
+👉 (https://github.com/wntrlol/pstream-desktop-legacy/releases/tag/v1.2.6)
 
 ---
 
