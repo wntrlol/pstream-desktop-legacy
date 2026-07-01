@@ -4,7 +4,7 @@ This repository is a recovered and archived version of an originally open-source
 
 The full source code is available for anyone to inspect, modify, and contribute to under the original open-source license.
 
-A lightweight packaged Electron desktop app for P-Stream.
+A lightweight packaged Electron-based windows desktop app for P-Stream.
 
 This is the legacy version of the P-Stream desktop app. It is designed to use less memory compared to running P-Stream in Chrome, making it a more lightweight option for older or lower-end systems.
 
