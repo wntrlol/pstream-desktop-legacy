@@ -1,0 +1,4 @@
+owner: p-stream
+repo: p-stream-desktop
+provider: github
+updaterCacheDirName: p-stream-desktop-updater
