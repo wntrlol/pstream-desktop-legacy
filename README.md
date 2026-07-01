@@ -1,4 +1,4 @@
-# PStream Desktop (Legacy)
+# P-Stream Desktop (Legacy)
 
 A lightweight packaged Electron desktop app for PStream.
 
@@ -19,7 +19,7 @@ Download the latest version here:
 2. Extract the folder  
 3. Run `P-Stream.exe`  
 4. On first launch, it will ask for **P-Stream Setup**
-5. Enter the latest PStream URL (example: `zstream.mov`)
+5. Enter the latest PStream domain or IP address  (example: `zstream.mov`)
 
 ---
 
@@ -32,6 +32,5 @@ Download the latest version here:
 ---
 
 ## 📌 Support
-
-If you run into issues, contact:  
+contact:  
 **Discord:** `@wntreud`
