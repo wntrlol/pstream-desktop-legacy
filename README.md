@@ -29,6 +29,7 @@ Download the latest version here:
 
 ## 🧠 Notes
 
+- Z-Stream domain works the best!
 - This is a legacy build (older version of the app)
 - Performance is improved compared to running in a browser
 - Some features may be outdated or limited
